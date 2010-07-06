@@ -25,8 +25,6 @@ import java.io.PrintWriter;
 
 public class MusicSwarm extends PApplet {
 
-	int i = 9;
-	
 	// osc communication objects
 	OscP5 oscP5;
 	NetAddress myRemoteLocation;
