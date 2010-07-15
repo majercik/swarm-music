@@ -22,6 +22,7 @@ import java.util.Random;
 import java.io.PrintWriter;
 
 //comment
+// another comment
 
 public class MusicSwarm extends PApplet {
 
