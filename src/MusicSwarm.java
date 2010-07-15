@@ -36,7 +36,10 @@ public class MusicSwarm extends PApplet {
 	static final int WINDOW_HEIGHT = 950;
 
 	//zoom for showing boids
+
+	float happy = 56;
 	float zoom = -100;
+
 
 	// for random numbers
 	// static so accessible from other classes (not actually used in this class)
