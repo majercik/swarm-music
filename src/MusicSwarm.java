@@ -37,6 +37,7 @@ public class MusicSwarm extends PApplet {
 
 	//zoom for showing boids
 	float zoom = -20;
+	float happy = 56;
 
 	// for random numbers
 	// static so accessible from other classes (not actually used in this class)
